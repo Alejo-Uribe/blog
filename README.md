@@ -1,3 +1,5 @@
+Participantes: Alejandro Uribe Pino
+
 Este es un blog realizado completamente en Django.
 
 Para poder ejecutarlo necesitaras:
